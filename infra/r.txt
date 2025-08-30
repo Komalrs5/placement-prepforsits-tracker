@@ -1,0 +1,1 @@
+This folder will contain infrastructure files, e.g., docker-compose.yml, AWS configs.
